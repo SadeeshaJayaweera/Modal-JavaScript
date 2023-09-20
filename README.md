@@ -1,6 +1,8 @@
 # Modal JavaScript Practice 🚀
 
-![Modal Preview](modal-preview.png)
+![Modal Preview]
+
+<img src='Modal.png'>
 
 This small JavaScript program is a modal component that I practiced to enhance my coding skills. The modal is designed to improve my understanding of JavaScript events and DOM manipulation. This project is based on the teachings of [Jonas Schmedtmann](https://codingheroes.io/), a renowned web developer, designer, and teacher. 👨‍🏫
 
