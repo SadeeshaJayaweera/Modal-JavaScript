@@ -26,7 +26,7 @@ You can see the modal in action by visiting the [Demo Page](https://your-demo-li
 
 1. Clone this repository:
 
-git clone https://github.com/your-username/modal-javascript-practice.git
+git clone https://github.com/Sadeesha_Jayaweera/modal-javascript.git
 Open the index.html file in your web browser. 🌐
 
 Interact with the modal by clicking the trigger button. 🖱️
